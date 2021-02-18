@@ -1,4 +1,5 @@
 *.idea/*
+.env
 
 *.rsuser
 *.suo
@@ -294,7 +295,6 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 *.sage.py
-.env.example
 .venv
 env/
 venv/
